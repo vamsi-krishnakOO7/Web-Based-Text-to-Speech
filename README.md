@@ -26,3 +26,4 @@ For this particular project I used the <b>Google US English</b> voice, but there
 </ul>
 <br>
 <h3>Project Design and Implementation</h3>
+<img src="https://github.com/vamsi-krishnakOO7/Web-Based-Text-to-Speech/blob/main/TTS_Impl.jpg" alt="Implementation">
