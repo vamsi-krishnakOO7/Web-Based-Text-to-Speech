@@ -24,6 +24,5 @@ For this particular project I used the <b>Google US English</b> voice, but there
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API" target="_blank">MDN Web Docs - Web Speech API</a>
 </li>
 </ul>
-<br>
 <h3>Project Design and Implementation</h3>
 <img src="https://github.com/vamsi-krishnakOO7/Web-Based-Text-to-Speech/blob/main/TTS_Impl.jpg" alt="Implementation">
